@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+ li {
+	padding: 13px 25px;
+}
+
+li:hover, a:active {
+	background-color: #fff;
+}
+
+.menu p{
+	padding: 13px 45px 0px 0px;
+	text-align: center;
+}
+
+ul {
+	padding: 0px;
+}
+
+ul>li {
+	list-style-type: none;
+}
+
+li a, .menu p {
+	font-size: 15px;
+	color: #50565d !important;
+	font-family: 'Poppins', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+.bg {
+	background-color: #f3a284;
+	height: 100vh;
+	position: fixed;
+	
+	right: 0;
+	left: 0;
+	
+}

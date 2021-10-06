@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APIGatewayService/APIGatewayService.iml" filepath="$PROJECT_DIR$/APIGatewayService/APIGatewayService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FabricateApp/FabricateApp.iml" filepath="$PROJECT_DIR$/FabricateApp/FabricateApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RFQModule/RFQModule.iml" filepath="$PROJECT_DIR$/RFQModule/RFQModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SupplierModule/SupplierModule.iml" filepath="$PROJECT_DIR$/SupplierModule/SupplierModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuthorizationModule/authorization-service.iml" filepath="$PROJECT_DIR$/AuthorizationModule/authorization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlantModule/demo.iml" filepath="$PROJECT_DIR$/PlantModule/demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&display=swap');
+* { box-sizing: border-box; padding: 0; margin: 0; }
+body { padding-top: 50px; }
+.error-dialog { padding: 10px; position: fixed; top: 69px; left: 0; right: 0; display: block; text-align: center; background-color: darkred; color: #FFFFFF; z-index: 999; box-shadow: 0 7px 7px 2px #777; }
+a { color: #FFFFFF !important; }
+.m-primary-bg { background-color: darkred !important; }
+.brand-font { font-family: 'Akronim', cursive !important; }
+.text-l { font-size: 18px !important; }
+.text-m { font-size: 13px !important;; }
+.text-s { font-size: 10px !important;; }

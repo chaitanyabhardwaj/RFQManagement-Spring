@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+section{
+	height:50px
+}
+.logo {
+	padding: 0px 45px 0px 0px;
+	text-align: center;
+}
+
+.logo {
+	height: 20px;
+	padding-left: 10px;
+}
+
+
+.bg{
+	background-color:#111111;
+}
+ a:active,a:focus{
+	color:yellow !important;
+}
