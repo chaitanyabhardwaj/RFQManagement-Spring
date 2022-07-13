@@ -6,5 +6,5 @@ Spring boot full stack application developed during an internship<br>
 <p>The middleware services of the manufactring firm will have to collate the needs of products/services from it's manufactring plant. The inputs needed for prepareing a comprehensive RFQ must be provided ny the services.</p>
 <p>There will also be an Admin portal, called as "Fabricate" that has to be developed part of this scope that consumes these microservices and helps the admin staffs with needed data fir RFQ preparation.</p>
 
-### My Data Flow Diagram
+### DFD
 <img src="https://raw.githubusercontent.com/chaitanyabhardwaj/RFQManagement-Spring/main/raw/dfd.png" width=400; height=auto;>
